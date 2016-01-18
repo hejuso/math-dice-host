@@ -1,0 +1,99 @@
+.inicio-form{
+    
+    margin-top: 20%;
+    margin-bottom: 10%;
+    margin-left: 18%;
+    width: 65%;
+
+}
+
+.logo{
+    
+    position: absolute;
+    left: 29%;
+
+}
+
+body{
+    
+    background-color: #E1F5FE;
+    padding-top:70px;
+}
+
+.hero {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    z-index: 3;
+    color: #fff;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 0 rgba(0,0,0,.75);
+      -webkit-transform: translate3d(-50%,-50%,0);
+         -moz-transform: translate3d(-50%,-50%,0);
+          -ms-transform: translate3d(-50%,-50%,0);
+           -o-transform: translate3d(-50%,-50%,0);
+              transform: translate3d(-50%,-50%,0);
+}
+.hero h1 {
+    font-size: 6em;    
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+
+.myButton1 {
+    position:absolute;
+    top:30000%;
+    left:44%;
+	background-color:#44c767;
+	-moz-border-radius:32px;
+	-webkit-border-radius:32px;
+	border-radius:32px;
+	border:2px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:28px;
+	padding:32px 76px;
+	text-decoration:none;
+	text-shadow:2px 3px 2px #2f6627;
+}
+.myButton1:hover {
+	background-color:#5cbf2a;
+    text-decoration:none;   
+
+}
+.myButton1:active {
+	position:absolute;
+	text-decoration:none;   
+}
+
+.myButton2 {
+    position:absolute;
+    top:30000%;
+    left:-3%;
+	background-color:#44c767;
+	-moz-border-radius:32px;
+	-webkit-border-radius:32px;
+	border-radius:32px;
+	border:2px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:28px;
+	padding:32px 55px;
+	text-decoration:none;
+	text-shadow:2px 3px 2px #2f6627;
+}
+.myButton2:hover {
+	background-color:#5cbf2a;
+    text-decoration:none;   
+
+}
+.myButton2:active {
+	position:absolute;
+    text-decoration:none;   
+}
