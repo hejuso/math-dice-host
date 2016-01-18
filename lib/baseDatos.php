@@ -1,10 +1,10 @@
 <?php
 class BaseDatos{
     
-    private $host="localhost";
-    private $db="math-dice";
-    private $user="root";
-    private $pass="root";
+    private $host="mysql.hostinger.es";
+    private $db="u623472388_md";
+    private $user="u623472388_admin";
+    private $pass="2h7qN6awrlXA6pxR";
     private $conexion;
     
     //CREAMOS EL CONSTRUCTOR
